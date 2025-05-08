@@ -27,7 +27,7 @@ Flix is a sleek, modern web application that lets users discover popular movies 
 
 ## 📸 Screenshots
 
-> *(Optional: Add screenshots of the UI here)*
+> *Coming soon!*
 
 ## 📦 Setup
 
