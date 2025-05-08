@@ -1,12 +1,8 @@
-Here's a simple yet professional README you can use or modify for your **Flix Movie App** project:
-
----
-
-🎬 Flix – Movie & TV Show Explorer
+# 🎬 Flix – Movie & TV Show Explorer
 
 Flix is a sleek, modern web application that lets users discover popular movies and TV shows, search for any title, and view detailed information—all powered by the [TMDB API](https://www.themoviedb.org/documentation/api).
 
-🚀 Features
+## 🚀 Features
 
 * 🔥 **Popular Movies** – Browse the most trending films right now.
 * 📺 **Popular TV Shows** – Explore top-rated shows that everyone’s watching.
@@ -45,8 +41,7 @@ Flix is a sleek, modern web application that lets users discover popular movies 
 * Filter by genre or rating
 * Pagination and infinite scrolling
 * Add to Favorites (localStorage)
-* spinner while fetching
-* And more
+* Add a spinner while fetching data
+* And many more
 
 ## 📝 License
-
